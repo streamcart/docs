@@ -1,0 +1,2 @@
+# docs
+Streamcart API documentation
